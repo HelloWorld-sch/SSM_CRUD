@@ -19,6 +19,7 @@ import com.atguigu.crud.service.DepartmentService;
 @Controller
 public class DepartmentController {
 	
+	//hello
 	@Autowired
 	private DepartmentService departmentService;
 	
